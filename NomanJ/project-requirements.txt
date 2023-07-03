@@ -1,8 +1,0 @@
-
-Messaging App
-
-It will send SMS to Phone Numbers.
-
-I will upload the project and you will continue it from where its left.
-
-
