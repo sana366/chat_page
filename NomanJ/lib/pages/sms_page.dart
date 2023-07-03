@@ -26,9 +26,9 @@ class _SmsPageState extends State<SmsPage> {
   final _formKey = GlobalKey<FormState>();
 
   //Twilio Credentials
-  final String accountSid = "AC5a7810fffa744adae27dd7c79eae3b3a";
-  final String authToken = "b611e62ad5da48e531e32f0fbef74588";
-  final String twilioNumber = "+18557700808";
+  final String accountSid = "AC5a7810fffa744adae27xxxxxxxx";
+  final String authToken = "b611e62ad5da48e531e32f0xxxxxxxx";
+  final String twilioNumber = "+185577008xxxx";
 
   late Twilio twilio;
 
